@@ -1,0 +1,1 @@
+Artificial intelligence project written in python language
